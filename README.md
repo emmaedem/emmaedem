@@ -7,7 +7,7 @@ Fullstack Web Developer
 <em>Graduating class of Holberton School's ALX Africa SE program, specializing in Frontend Development</em>
 
 <h2>About Me</h2>
- ⚡  I'm Emmanuel Edem, a passionate Frontend Developer based in Lagos, Nigeria with a strong focus on React.  
+ ⚡  I'm a passionate Frontend Developer based in Lagos, Nigeria with a strong focus on React.  
 
  My journey into software engineering began with the ALX Software Engineering Program, where I gained comprehensive skills in web development. While I've worked across the full stack, I have passion for frontend development, especially using React to build dynamic and engaging applications.
 
