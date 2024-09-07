@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Web Developer
 -----------------------
 
-Graduating class of Holberton School's ALX Africa SE program, specializing in Frontend Development
+<em>Graduating class of Holberton School's ALX Africa SE program, specializing in Frontend Development</em>
 
 <h2>About Me</h2>
  ⚡  I'm Emmanuel Edem, a passionate Frontend Developer based in Lagos, Nigeria with a strong focus on React.  
